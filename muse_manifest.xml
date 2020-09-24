@@ -1,0 +1,37 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="dynamostudiorgl.com" resolutions="1x" timestamp="1600984192353">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="21447891" ref="comprar-entrada:pagar:galeria-de-fotos:galeria-de-videos:index"/>
+    <file name="comprar-entrada.css" crc="106104759" ref="comprar-entrada"/>
+    <file name="pagar.css" crc="3899707951" ref="pagar"/>
+    <file name="galeria-de-fotos.css" crc="510799391" ref="galeria-de-fotos"/>
+    <file name="galeria-de-videos.css" crc="510799391" ref="galeria-de-videos"/>
+    <file name="index.css" crc="4201909398" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="museutils.js" crc="163421577" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="whatinput.js" crc="86476730" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="museconfig.js" crc="168988563" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="require.js" crc="244322403" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="webpro.js" crc="3848665353" ref="comprar-entrada"/>
+    <file name="form_check.php" crc="158155501" ref="comprar-entrada"/>
+    <file name="form_throttle.php" crc="3992970984" ref="comprar-entrada"/>
+    <file name="form_process.php" crc="4078697226" ref="comprar-entrada"/>
+    <file name="form-u679.php" crc="4285951894" ref="comprar-entrada"/>
+  </folder>
+  <folder name="images">
+    <file name="dynamo logo-crop-u97.png" crc="266379026" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="portada-youtube-andres.jpg" crc="421800646" seo="true" ref="index"/>
+    <file name="logo nuevisimo animacion-01.png" crc="258273345" seo="true" ref="index:galeria-de-fotos:galeria-de-videos:comprar-entrada:pagar"/>
+    <file name="portada-youtube-andres587x330.jpg" crc="482705841" seo="true" ref="comprar-entrada"/>
+  </folder>
+  <file name="index.html" crc="3769906018" seo="true" mt="1600982042305" redirect="true"/>
+  <file name="galeria-de-fotos.html" crc="270102259" seo="true" mt="1600981962445" redirect="true"/>
+  <file name="galeria-de-videos.html" crc="358504937" seo="true" mt="1600981962445" redirect="true"/>
+  <file name="comprar-entrada.html" crc="41311272" seo="true" mt="1600982633260" redirect="true"/>
+  <file name="pagar.html" crc="291640640" seo="true" mt="1600983075693" redirect="true"/>
+</manifest>
